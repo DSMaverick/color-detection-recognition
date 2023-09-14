@@ -1,0 +1,7 @@
+Run as following:
+1. /color_recognition_api/KNN_Classifier.py
+2. FeatureExtraction.py
+
+Then select what do you want to run classification on:
+1. From Webcam feed: WebcamColorClassification.py
+2. From test Image(data/tricolor.jpg): ImageColorClassification.py
